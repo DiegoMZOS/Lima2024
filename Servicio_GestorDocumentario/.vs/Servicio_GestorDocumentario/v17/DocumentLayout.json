@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Servicio_GestorDocumentario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE338F8-7F69-4047-97E2-136CF076F04F}|..\\Infraestructure\\Infraestructure.csproj|c:\\users\\mendozada\\onedrive - global hitss\\escritorio\\ska\\infraestructure\\repository\\colaboradoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453815DC-FCD3-43B1-A31D-7CA520D62DEE}|..\\Domain\\Domain.csproj|c:\\users\\mendozada\\onedrive - global hitss\\escritorio\\ska\\domain\\interfaces\\icolaboradoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453815DC-FCD3-43B1-A31D-7CA520D62DEE}|..\\Domain\\Domain.csproj|c:\\users\\mendozada\\onedrive - global hitss\\escritorio\\ska\\domain\\models\\gestorcolaboradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461941D-D0E1-46CC-A836-2EE028507B47}|Servicio_GestorDocumentario.csproj|c:\\users\\mendozada\\onedrive - global hitss\\escritorio\\ska\\servicio_gestordocumentario\\controllers\\colaboradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4461941D-D0E1-46CC-A836-2EE028507B47}|Servicio_GestorDocumentario.csproj|solutionrelative:controllers\\colaboradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C0200-3CBA-4D90-A725-A10A19AA28D7}|..\\Aplication\\Application.csproj|c:\\users\\mendozada\\onedrive - global hitss\\escritorio\\ska\\aplication\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453815DC-FCD3-43B1-A31D-7CA520D62DEE}|..\\Domain\\Domain.csproj|c:\\users\\mendozada\\onedrive - global hitss\\escritorio\\ska\\domain\\dtos\\dtogestorcolaboradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C0200-3CBA-4D90-A725-A10A19AA28D7}|..\\Aplication\\Application.csproj|c:\\users\\mendozada\\onedrive - global hitss\\escritorio\\ska\\aplication\\services\\colaboradoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 839,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Aplication\\Application.csproj",
+              "RelativeDocumentMoniker": "..\\Aplication\\Application.csproj",
+              "ToolTip": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Aplication\\Application.csproj",
+              "RelativeToolTip": "..\\Aplication\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T14:25:06.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColaboradoresController.cs",
+              "DocumentMoniker": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Servicio_GestorDocumentario\\Controllers\\ColaboradoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ColaboradoresController.cs",
+              "ToolTip": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Servicio_GestorDocumentario\\Controllers\\ColaboradoresController.cs",
+              "RelativeToolTip": "Controllers\\ColaboradoresController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:14:50.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColaboradoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Infraestructure\\Repository\\ColaboradoresRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infraestructure\\Repository\\ColaboradoresRepository.cs",
+              "ToolTip": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Infraestructure\\Repository\\ColaboradoresRepository.cs",
+              "RelativeToolTip": "..\\Infraestructure\\Repository\\ColaboradoresRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:14:47.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IColaboradoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Domain\\Interfaces\\IColaboradoresRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IColaboradoresRepository.cs",
+              "ToolTip": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Domain\\Interfaces\\IColaboradoresRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IColaboradoresRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:14:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestorColaboradores.cs",
+              "DocumentMoniker": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Domain\\Models\\GestorColaboradores.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\GestorColaboradores.cs",
+              "ToolTip": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Domain\\Models\\GestorColaboradores.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\GestorColaboradores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:14:40.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTOGestorColaboradores.cs",
+              "DocumentMoniker": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Domain\\DTOS\\DTOGestorColaboradores.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTOS\\DTOGestorColaboradores.cs",
+              "ToolTip": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Domain\\DTOS\\DTOGestorColaboradores.cs",
+              "RelativeToolTip": "..\\Domain\\DTOS\\DTOGestorColaboradores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:14:24.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColaboradoresService.cs",
+              "DocumentMoniker": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Aplication\\Services\\ColaboradoresService.cs",
+              "RelativeDocumentMoniker": "..\\Aplication\\Services\\ColaboradoresService.cs",
+              "ToolTip": "C:\\Users\\mendozada\\OneDrive - GLOBAL HITSS\\Escritorio\\ska\\Aplication\\Services\\ColaboradoresService.cs",
+              "RelativeToolTip": "..\\Aplication\\Services\\ColaboradoresService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:14:20.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+D:\proy_sanfernando\Servicio_Gestor\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\proy_sanfernando\Servicio_Gestor\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\proy_sanfernando\Servicio_Gestor\Domain\bin\Debug\net8.0\Domain.dll
+D:\proy_sanfernando\Servicio_Gestor\Domain\bin\Debug\net8.0\Domain.pdb
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.dll
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.pdb
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\proy_sanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\bin\Debug\net8.0\Domain.dll
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\bin\Debug\net8.0\Domain.pdb
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.dll
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.pdb
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\gitbackendsanfernando\Servicio_Gestor\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\mendozada\OneDrive - GLOBAL HITSS\Escritorio\ska\Domain\obj\Debug\net8.0\ref\Domain.dll
